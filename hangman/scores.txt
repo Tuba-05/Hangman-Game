@@ -1,0 +1,7 @@
+
+fin = 0
+doi = 7
+guy = 0
+rose = 0
+bot = 0
+ruby = 0
